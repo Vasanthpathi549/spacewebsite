@@ -1,0 +1,24 @@
+
+<head> 
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script> 
+        $(document).ready(function () { 
+        $('ul').on('click', 'li', function () {
+          $(this).fadeOut(600); 
+        });
+        
+        $('#btn').click( function () { 
+          $('ul').append('<li>New Item</li>');
+        });
+       
+      }); 
+      </script>
+    </head>
+    <body>
+      <input id="btn" type="button" value="Add" /> 
+      <ul>
+          <li>Fresco Play</li> 
+          <li>Fresco Talk</li> 
+      </ul>
+    </body>
+    

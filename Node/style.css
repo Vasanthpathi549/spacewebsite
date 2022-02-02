@@ -1,0 +1,10 @@
+img{
+   border: 2px solid pink;
+   margin: 0 auto;
+   border-radius: 50%;
+}
+p{
+    font-size: 17px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+}
