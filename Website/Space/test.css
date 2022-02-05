@@ -1,0 +1,14 @@
+.wish,.name{
+    color: blueviolet;
+    background-color: orange;
+    display: inline;
+}
+.img-emoji{
+    margin: 10px;
+    background-color: orange;
+}
+.name{
+    position: relative;
+    left: 20px;
+    bottom: 30px;
+}

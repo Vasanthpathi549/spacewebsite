@@ -1,0 +1,80 @@
+.head_div{
+    background-image: linear-gradient(to right,#161853,#1B1717);
+    float: right;
+    height: fit-content;
+    margin: 10px ;
+    display: inline;
+}
+
+.space-logo{
+    width: 5%;
+    height: 50.400px;
+    margin: 10px;
+    border-radius:100%;
+    border: 1px solid white;
+}
+
+.logo_name
+{
+    color: bisque;
+    font-style: 'Quintessential',serif;
+    border:1px solid #1B1717;
+    margin: 0px 10px 0px 10px;
+    display: inline;
+    position: relative;
+    bottom: 25px;
+}
+ul li{
+    display: inline;
+}
+
+
+a{
+    text-decoration: none;
+    color: white;
+    margin: 35px 30px 30px 30px;
+   
+}
+
+
+
+.space-logo:hover{
+    width: 6%;
+    height:6%;
+}
+
+body{
+    background-image: url("images/space.jpg");
+    font-size: 17px;
+    font-style:inherit;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.bars{
+    width: 50px;
+    height: 20px;
+    padding: 10px;
+    margin-right: 20px;
+}
+.bars:hover{
+    border-bottom: 1px solid silver;
+}
+/* 
+.middle-container{
+    color: white;
+    display: inline;
+    margin: 0 auto;
+} */
+
+.middle-container{
+    color: white;
+    width: 50%;
+    display: inline-block;
+    position: relative;
+    margin: 120px;
+    text-align: center;
+}
+.middle-desc{
+    width: 50%;
+    margin-left: 24%;
+}
