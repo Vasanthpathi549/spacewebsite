@@ -1,0 +1,21 @@
+body{
+    background-color:#EEC4C4;
+    margin: 0;
+}
+
+.name{
+    background-color: #A6D6D6;
+}
+
+h1{
+    margin: 0;
+}
+.cloud{
+    position: relative;
+    display: block;
+}
+
+.pro,.my_name
+{
+    color: darkorange;
+}

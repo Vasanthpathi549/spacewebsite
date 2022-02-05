@@ -2,13 +2,21 @@
 {
     border-radius:1022px;
     margin: 0 auto;
+    border: 2px black;
 }
 
 hr{
-    background-color: black;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 5%;
 
 }
 
 table{
     border: 1px;
+}
+
+h1,h3{
+    color:#11324D;
 }
